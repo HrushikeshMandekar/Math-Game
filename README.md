@@ -1,2 +1,3 @@
-# web-development
-Hello Everyone! I welcome you all to my course! Have FUN!!! :) 
+# Math Game
+This is the Math Game Project created by Hrushikesh Mandekar using technologies such as HTML,CSS & JavaScript.
+You can test your math knowledge here! :)
